@@ -213,15 +213,6 @@ export const Hero: React.FC = () => {
 
               <div className="absolute inset-0 bg-linear-to-t from-black/60 via-black/10 to-transparent" />
 
-              <a
-                href="/resume.pdf"
-                download="Amrita_Rani_Shaw_Resume.pdf"
-                className="absolute bottom-4 right-4 z-20 flex items-center gap-2 rounded-full border border-white/20 bg-black/70 px-3 py-2 text-[11px] font-semibold text-white backdrop-blur-md shadow-lg transition-all hover:bg-black/90"
-              >
-                <Download size={14} />
-                Resume
-              </a>
-
               {/* Floating tech nodes */}
               <div className="absolute bottom-4 left-12 w-2 h-2 rounded-full bg-green-500 animate-pulse" />
               <div className="absolute top-6 right-16 w-1.5 h-1.5 rounded-full bg-[#7C3AED] animate-ping" />
