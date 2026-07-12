@@ -119,7 +119,7 @@ export const Navbar: React.FC<NavbarProps> = ({ theme, toggleTheme, activeSectio
           {/* Resume Download */}
           <a
             href="/resume.pdf"
-            download="Amrita_Rani_Shaw_Resume.pdf"
+            download="amrita.pdf"
             id="desktop-resume-download"
             className="flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-semibold tracking-wide bg-gradient-to-r from-[#7C3AED] to-[#2563EB] text-white hover:opacity-90 transition-all shadow-[0_4px_20px_rgba(124,58,237,0.25)] hover:shadow-[0_4px_25px_rgba(124,58,237,0.4)] hover:translate-y-[-1px] focus:outline-none"
           >

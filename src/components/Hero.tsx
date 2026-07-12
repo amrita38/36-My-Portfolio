@@ -101,7 +101,7 @@ export const Hero: React.FC = () => {
 
             <a
               href="/resume.pdf"
-              download="Amrita_Rani_Shaw_Resume.pdf"
+              download="amrita.pdf"
               className="flex items-center justify-center gap-2 px-8 py-4 rounded-xl text-sm font-semibold text-[#A1A1AA] hover:text-white light:text-zinc-600 light:hover:text-zinc-900 border border-[#262626] light:border-zinc-200 bg-[#111111]/40 light:bg-zinc-50 hover:bg-[#111111]/80 light:hover:bg-zinc-100 transition-all hover:translate-y-[-2px] group"
             >
               <Download
