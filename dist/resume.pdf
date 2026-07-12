@@ -1,0 +1,25 @@
+-----------------------------------------------------------
+AMRITA RANI SHAW - FULL STACK DEVELOPER RESUME
+-----------------------------------------------------------
+Email: amritashaw38@gmail.com
+Phone: +91 7250011238
+GitHub: https://github.com/amrita38
+LinkedIn: https://linkedin.com/in/amrita-rani-149169409
+
+EDUCATION:
+- Diploma in Computer Science Engineering
+  Behragora Polytechnic, Jharkhand, India
+
+SKILLS:
+- Frontend: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js
+- Backend & DB: Node.js, Express.js, MongoDB, Prisma, SQL
+- Tools: Git, GitHub, Postman, VS Code
+
+PROJECTS:
+1. WebLance: Modern freelance platform using Next.js, Node.js, MongoDB.
+2. Todo App: Task management application using React, Express, MongoDB.
+3. Netflix Clone: Movie streaming interface with responsive UI.
+
+-----------------------------------------------------------
+This is a placeholder resume file. You can replace this file at `/public/resume.pdf` with your real PDF resume.
+-----------------------------------------------------------
