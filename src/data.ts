@@ -51,25 +51,28 @@ export const projectsData: Project[] = [
   {
     id: "1",
     name: "WebLance",
-    description: "Modern freelance platform connecting clients and developers with a responsive dashboard and clean UI.",
+    description:
+      "Modern freelance platform connecting clients and developers with a responsive dashboard and clean UI.",
     stack: ["Next.js", "TypeScript", "Tailwind CSS", "Node.js", "MongoDB"],
     github: "https://github.com/amrita38",
-    live: "#"
+    live: "#",
   },
   {
-    id: "2",
-    name: "Todo App",
-    description: "Task management application with authentication, CRUD operations, filters, and responsive design.",
-    stack: ["React", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/amrita38",
-    live: "#"
+    id: "4",
+    name: "TemplateForge AI",
+    description:
+      "AI-powered template creation and document management platform with secure authentication, AI-assisted generation, document preview, PDF export, and a dedicated Admin Panel.",
+    stack: ["React", "TypeScript", "Vite", "Express.js", "Gemini AI", "JWT"],
+    github: "https://github.com/amrita38/54-templateforge-ai",
+    live: "https://54-templateforge-ai.vercel.app/",
   },
   {
     id: "3",
     name: "Netflix Clone",
-    description: "Netflix-inspired movie streaming interface with responsive UI and dynamic movie browsing.",
+    description:
+      "Netflix-inspired movie streaming interface with responsive UI and dynamic movie browsing.",
     stack: ["React", "Tailwind CSS", "API"],
     github: "https://github.com/amrita38",
-    live: "#"
-  }
+    live: "#",
+  },
 ];
