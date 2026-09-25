@@ -55,7 +55,7 @@ export const projectsData: Project[] = [
       "Modern freelance platform connecting clients and developers with a responsive dashboard and clean UI.",
     stack: ["Next.js", "TypeScript", "Tailwind CSS", "Node.js", "MongoDB"],
     github: "https://github.com/amrita38",
-    live: "#",
+    live: " https://weblance-in.vercel.app/",
   },
   {
     id: "4",
